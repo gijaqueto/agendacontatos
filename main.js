@@ -1,6 +1,7 @@
 const form = document.getElementById('form-agenda');
 const nome = [];
 const telefone = [];
+const atividades = [];
 
 let linhas = '';
 
